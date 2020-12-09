@@ -1,2 +1,3 @@
-# MythicMobs
-Ill set it up when i get home
+# Mythic Mobs for DarkcrestMC
+
+Yay
